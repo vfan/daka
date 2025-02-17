@@ -1,0 +1,143 @@
+{
+  "weeks": [
+    {
+      "id": 1,
+      "name": "开学第一周",
+      "startDate": "2025.02.10",
+      "endDate": "2025.02.16"
+    },
+    {
+      "id": 2,
+      "name": "开学第二周",
+      "startDate": "2025.02.17",
+      "endDate": "2025.02.23"
+    },
+    {
+      "id": 3,
+      "name": "开学第三周",
+      "startDate": "2025.02.24",
+      "endDate": "2025.03.02"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "category": "学习",
+      "name": "早读（古诗词、隔两三天复习：作文、课本、单词）",
+      "duration": "10分钟",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "category": "学习",
+      "name": "放学回家后尽快完成作业（含口算打卡、验算、课外作业）",
+      "duration": "8点前",
+      "points": 3
+    },
+    {
+      "id": 3,
+      "category": "学习",
+      "name": "每日6道数学思维拓心中教学（8点半前）",
+      "duration": "20分钟",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "category": "学习",
+      "name": "每天练字（8点半前）",
+      "duration": "10分钟",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "category": "学习",
+      "name": "预习数学",
+      "duration": "",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "category": "学习",
+      "name": "每日英语听读（睡前）",
+      "duration": "20分钟",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "category": "学习",
+      "name": "每周记单词5到10个",
+      "duration": "",
+      "points": 2
+    },
+    {
+      "id": 8,
+      "category": "学习",
+      "name": "周五、周六上午完成70%的假期作业",
+      "duration": "",
+      "points": 3
+    },
+    {
+      "id": 9,
+      "category": "学习",
+      "name": "圈关键词、写过程、答写全",
+      "duration": "",
+      "points": 2
+    },
+    {
+      "id": 10,
+      "category": "学习",
+      "name": "一周2篇阅读理解，做完后，一定要思考，错在哪里",
+      "duration": "1周内",
+      "points": 2
+    },
+    {
+      "id": 11,
+      "category": "学习",
+      "name": "每日份写（老师要求）",
+      "duration": "",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "category": "学习",
+      "name": "周末听母语词、单词、错题练习",
+      "duration": "2小时",
+      "points": 2
+    },
+    {
+      "id": 13,
+      "category": "生活",
+      "name": "早起不赖床",
+      "duration": "7点15分",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "category": "生活",
+      "name": "出门利落，自己穿好衣服鞋袜整齐",
+      "duration": "7点50分",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "category": "生活",
+      "name": "自己收拾书包、红领巾、衣服",
+      "duration": "",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "category": "生活",
+      "name": "9点洗澡",
+      "duration": "9点40分关灯(周末灵活调整)",
+      "points": 2
+    },
+    {
+      "id": 17,
+      "category": "生活",
+      "name": "周一到周五，平板只用于学习学习\n周末可自主支配电子产品半小时",
+      "duration": "",
+      "points": 2
+    }
+  ]
+}
